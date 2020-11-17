@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         System.loadLibrary("native-lib");
         System.loadLibrary("opencv_java4");//opencv4版本
         //System.loadLibrary("opencv_java3");opencv3版本
-
+        
     }
 
     @Override
